@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey 👋
 
-<!--
-**jamespanter/jamespanter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an iOS developer from the UK.
 
-Here are some ideas to get you started:
+#### I enjoy:
+- 🌧️ Rainy walks in nature
+- 💬 Meaningful discussion
+- 📽️ Cinema & film
+- 🎲 Board games
+- ⌨️ Using code to do helpful things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my publicly visible projects are either unfinished, were simply a medium for learning or smashed together to serve a specific task - just a little disclaimer but you're welcome to take a browse. I hope to oneday create something that improves mental well-being or helps to reduce loneliness in some way.
+
+See my published apps below.
+
+---
+
+### Published Apps:
+
+#### Quotle - [View in iOS App Store](https://apps.apple.com/gb/app/quotle-daily-quotes/id1629068375)
